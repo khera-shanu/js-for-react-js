@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Creamy Tomato Pasta Pizza - Veg",
+      "description": "Loaded with a delicious creamy tomato pasta topping , green capsicum, crunchy red and yellow bell peppers and black olives",
+      "image": "https://images.dominos.co.in/CreamyTomatoPPVG.jpg",
+      "price": "599",
+      "type": "veg"
+    },
+    {
+      "name": "Farmhouse",
+      "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+      "image": "https://images.dominos.co.in/farmhouse.png",
+      "price": "459",
+      "type": "veg"
+    },
+    {
+      "name": "Double Cheese Margherita",
+      "description": "A classic delight loaded with extra 100% real mozzarella cheese",
+      "image": "https://images.dominos.co.in/double_cheese_margherita_2502.jpg",
+      "price": "379",
+      "type": "veg"
+    },
+    {
+      "name": "Moroccan Spice Pasta Pizza - Non Veg",
+      "description": "A pizza loaded with a spicy combination of Harissa sauce, Peri Peri chicken chunks and delicious pasta.",
+      "image": "https://images.dominos.co.in/MoroccanSpicePPNV_N.jpg",
+      "price": "459",
+      "type": "non_veg"
+    },
+    {
+      "name": "Chicken Pepperoni",
+      "description": "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese",
+      "image": "https://images.dominos.co.in/cheesepepperoni.png",
+      "price": "599",
+      "type": "non_veg"
+    },
+    {
+      "name": "Moroccan Spice Pasta Pizza - Veg",
+      "description": "A pizza loaded with a spicy combination of Harissa sauce and delicious pasta.",
+      "image": "https://images.dominos.co.in/MoroccanSpicePPVG_N.jpg",
+      "price": "329",
+      "type": "veg"
+    }
+  ]
