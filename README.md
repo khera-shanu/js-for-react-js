@@ -9,6 +9,7 @@ Support repository for those students who are taking my JS for React JS mini-cou
 ## Lessons Plan
 
 - Chapter 1 - A detailed History of Javascript.
-- Chapter 2 - A taste of React JS.
-- Chapter 3 - Variables and Datatypes.
-- Chapter 4 and more - ToDo
+- Chapter 2 - DOM Manipulation using Vanilla JS.
+- Chapter 3 - DOM Manipulation uing React JS.
+- Bonus (planned for later) - How browsers work.
+- Bonus (planned for later) - How React JS work.
